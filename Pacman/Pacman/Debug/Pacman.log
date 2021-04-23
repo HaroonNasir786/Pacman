@@ -1,0 +1,59 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750,1): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>::_Mypair': class 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(1750): message : see declaration of 'std::_Compressed_pair<std::allocator<S2D::Input::Keys>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\S2D\Input.h(108): message : see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<S2D::Input::Keys>>' being compiled
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(11,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(102,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(102,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(118,87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(118,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(119,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(119,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(193,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(193,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(216,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(217,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(262,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(272,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(280,55): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(291,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(315,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(341,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(351,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(353,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(355,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(357,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(364,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(365,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(367,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(368,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(492,174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(492,147): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(492,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(492,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(509,170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(509,145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(509,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Pacman\Pacman.cpp(509,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Pacman.vcxproj -> C:\Users\Harooonie\Documents\Uni Work\Fundamental of Games\Assessment 1\Pacman\Debug\Pacman.exe
