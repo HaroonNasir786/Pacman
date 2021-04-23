@@ -22,3 +22,4 @@
 
 # Score 50 to win the game!
 
+:grinning: 	:heart:  :speak_no_evil:
